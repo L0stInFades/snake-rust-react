@@ -1,0 +1,6 @@
+# Rust
+/engine/target/
+
+# Frontend artifacts
+/frontend/dist/
+/frontend/node_modules/
