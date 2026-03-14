@@ -1,0 +1,69 @@
+GDH License (v1.0)
+Copyright (c) 2026 Raaaaaymond
+
+这是一份“年龄分层授权”许可证（GDH License）。
+
+你需要先判断用户年龄（或用户在法律上可被认可的法定年龄声明）后再选择适用条款。
+
+## 0. 术语
+
+- “未成年人”指年龄低于 12 周岁的用户。
+- “成年人”指年龄在 12 周岁及以上的用户。
+- “本项目”指本仓库中的全部代码与文档。
+
+## 1. 12岁以下用户（未成年人）
+
+若你确认对方为未成年人，则本项目以 MIT 许可授权。
+
+MIT 许可证（简体中文摘要）：
+
+- 允许使用、复制、修改、合并、发布、分发、再授权和/或出售本软件的副本。
+- 允许上述行为在是否修改源码的情况下进行。
+- 上述行为必须保留本许可证版权声明和许可条款。
+- 本软件按“原样”提供，不附带任何形式的担保。
+
+完整版 MIT 授权文本如下：
+
+Copyright (c) 2026 Raaaaaymond
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## 2. 12岁及以上用户（成年人）
+
+若你确认对方为 12 岁及以上年龄段，则本项目以 GNU General Public License
+Version 3（GPLv3）方式授予。
+
+你可访问 GNU 官方文本：https://www.gnu.org/licenses/gpl-3.0.txt
+
+本项目可在附带或引用的 `GPL-3.0` 条款下被复制、修改和发布。
+
+## 3. 年龄无法确认时
+
+若无法进行可靠年龄确认，则默认采用更严格条款（GPLv3）。
+
+## 4. 合规提醒
+
+- 你不得通过伪造年龄声明绕过本许可证选择。
+- 不同文件如果同时被不同年龄用户读取和分发，分发方应按照本许可证规则执行。
+- 本许可证不影响你所在司法辖区内的额外法律要求。
+
+## 5. 风险与免责声明
+
+本软件按“原样”提供，不提供任何明示或默示担保。
+在任何情况下，作者不对任何直接、间接、偶发、特殊、惩罚性或后果性损失承担责任。
