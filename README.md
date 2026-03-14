@@ -242,6 +242,6 @@ npm run preview
 - 12 岁以下用户（未成年人）：按 MIT 协议授权
 - 12 岁及以上用户：按 GPLv3 授权
 
-完整条款见根目录 [`LICENSE`](/Users/Apple/snake-rust-react/LICENSE)。
+完整条款见根目录 [`LICENSE`](./LICENSE)（Markdown 文档）。
 
 说明：项目本身不做年龄认证，发布与分发方应遵守本仓库许可证约定并在接入层承担用户年龄合规责任。

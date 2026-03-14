@@ -1,69 +1,137 @@
-GDH License (v1.0)
+# GDH 开源许可协议（中文版）
+
+**GDH License v1.1（GNU Desktop-Grade Hybrid License for Minors）**
+
+**版本生效日：** 2026-03-14  
+**版权所有者：** Raaaaaymond  
+**适用范围：** 本仓库全部源代码、二进制输出、文档与衍生作品
+
+---
+
+## 前言（立约目的）
+
+本许可文本（以下简称“本协议”）系为兼顾开源共享与未成年人友好使用而制订的分层授权方案，适用于该仓库公开发布的作品（以下简称“本作品”）。
+
+该制度的核心目标：
+
+1. 在**未成年人学习与体验**场景下，尽可能降低版权理解门槛，保留 MIT 的宽松再分发与再利用机制；
+2. 在**成年人**使用与再分发场景下，提供与开源精神一致的 GPLv3 约束，保持改动透明与共享传播；
+3. 在年龄难以确认场景下，采取更严格的开源责任边界；
+4. 明确发布者与再分发方在桌面端（含本地桌面应用、安装包分发、桌面浏览器下载渠道）中的合规义务。
+
+本协议为《GDH License》一体化文本，适用于该仓库主项目中全部文件。
+
+---
+
+## 第1条 释义
+
+1. **未成年人**：年龄低于12周岁的自然人。
+2. **成年人**：年龄不低于12周岁的自然人。
+3. **分发方**：对本作品进行复制、转发、打包、安装发布、托管或提供可访问副本的任何个人或组织。
+4. **桌面端发布**：通过桌面应用安装包、桌面浏览器下载页、桌面发行渠道或本地可执行包装形式向用户提供本作品的行为。
+5. **修改版本**：在本作品基础上进行二次编码、重组、编译、链接、打包、文档化或任何形式实质性改写形成的派生作品。
+6. **本协议**：本文所定义的全部条款。
+
+---
+
+## 第2条 许可触发条件
+
+1. 任何一名使用、复制、修改、发布或分发本作品的主体，必须先进行年龄分类判断。
+2. 年龄分类依据包括：
+   - 法定年龄声明；
+   - 账户实名认证或平台身份校验结果；
+   - 运营方能够取得的其他可验证年龄信息。
+3. 若无法取得可靠年龄确认结果，默认按成年人路径处理。
+
+---
+
+## 第3条 未成年人路径（12周岁以下）：MIT 许可
+
+1. 若受众被认定为未成年人，则许可如下：
+   - 受本段条款约束的授权范围以 MIT 许可为准；
+   - 允许使用、复制、修改、合并、发布、分发、再授权及商业化再销售。
+2. MIT 授权核心条件为：
+   - 在所有副本或其实质性部分中保留版权声明与本许可声明；
+   - 在“按现状”基础上提供，不附带任何明示或暗示担保。
+3. 本条中“商业化”包括但不限于广告、订阅、付费下载、授权服务等模式。
+4. 使用本条款的桌面端发布方应在用户可见位置（例如安装向导、关于页、首次启动说明）提示：
+   - 本作品对未成年人采用 MIT 模式；
+   - 同时尊重适用的隐私、未成年人保护与平台青少年模式相关要求。
+
+---
+
+## 第4条 成年人路径（12周岁及以上）：GPLv3 许可
+
+1. 若受众被认定为成年人，则许可如下：
+   - 受《GNU 通用公共许可证第三版》（GPLv3）约束；
+   - 任何发布、再发布、修改、传播均须遵守 GPLv3 的分发与源代码开放义务。
+2. 适用范围包含：
+   - 运行时链接、源代码分发、派生版本公开、禁止附加限制性条款；
+   - 对修改版本的再分发需保证与 GPLv3 条款兼容。
+3. 分发方可依官方文本执行完整条款，官方文本见：
+   - https://www.gnu.org/licenses/gpl-3.0.txt
+
+---
+
+## 第5条 年龄无法确认情形
+
+1. 若分发或使用场景无法可靠确认年龄的，默认适用第4条成年人路径。
+2. 分发方因未完成年龄确认导致的许可路径使用不当，应自行承担全部责任。
+
+---
+
+## 第6条 桌面端发布与接入层义务
+
+1. 在桌面端发布场景，分发方应至少履行：
+   - **许可说明义务**：明确提供本协议获取路径；
+   - **年龄提醒义务**：在首次安装或启动阶段提供年龄分层提示；
+   - **日志与留痕义务（如适用）**：对用户授权选择、年龄确认状态进行可追溯记录；
+   - **更新通知义务**：版本更新时重复提示本协议版本及生效日期。
+2. 禁止在界面或文档中将“未成年人路径”表述为对成年用户的额外限制权利，亦不得以任何形式将成人用户的默认权利收缩为未成年人路径条件。
+
+---
+
+## 第7条 免责声明与责任范围
+
+1. 本作品按“原样”提供，不附带任何明示、暗示或法定担保，包括但不限于：
+   - 可销售性；
+   - 特定用途适用性；
+   - 不侵权；
+   - 安全性与持续可用性。
+2. 在任何法律体系下，版权方及贡献者均不对下列责任承担连带或代位赔偿责任：
+   - 间接损失、附随损失、特殊损失、经济性惩罚性损失；
+   - 因产品更新、兼容性变化、第三方组件变更导致的故障与业务中断。
+
+---
+
+## 第8条 终止
+
+1. 若分发方未遵守本协议任一实质条款，许可即视为对该分发方终止；
+2. 许可终止后，分发方不得继续利用、复制、传播该作品，但终止不影响其在终止前已合法分发、已合法授权的副本。
+
+---
+
+## 第9条 争议解决
+
+1. 本协议适用中国法律。
+2. 因本协议引起的争议，双方应先友好协商；协商不成，提交作品所在地有管辖权的人民法院处理。
+
+---
+
+## 第10条 生效与修订
+
+1. 自本协议发布并入库之日生效。
+2. 版权方可发布后续修订版；修订版生效后，如无特别声明，以新版为标准。
+3. 已取得旧版本许可的用户，以其取得之时对应版本条款继续适用。
+
+---
+
+## 附录A：MIT 授权（英文原文）
+
 Copyright (c) 2026 Raaaaaymond
 
-这是一份“年龄分层授权”许可证（GDH License）。
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-你需要先判断用户年龄（或用户在法律上可被认可的法定年龄声明）后再选择适用条款。
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-## 0. 术语
-
-- “未成年人”指年龄低于 12 周岁的用户。
-- “成年人”指年龄在 12 周岁及以上的用户。
-- “本项目”指本仓库中的全部代码与文档。
-
-## 1. 12岁以下用户（未成年人）
-
-若你确认对方为未成年人，则本项目以 MIT 许可授权。
-
-MIT 许可证（简体中文摘要）：
-
-- 允许使用、复制、修改、合并、发布、分发、再授权和/或出售本软件的副本。
-- 允许上述行为在是否修改源码的情况下进行。
-- 上述行为必须保留本许可证版权声明和许可条款。
-- 本软件按“原样”提供，不附带任何形式的担保。
-
-完整版 MIT 授权文本如下：
-
-Copyright (c) 2026 Raaaaaymond
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-## 2. 12岁及以上用户（成年人）
-
-若你确认对方为 12 岁及以上年龄段，则本项目以 GNU General Public License
-Version 3（GPLv3）方式授予。
-
-你可访问 GNU 官方文本：https://www.gnu.org/licenses/gpl-3.0.txt
-
-本项目可在附带或引用的 `GPL-3.0` 条款下被复制、修改和发布。
-
-## 3. 年龄无法确认时
-
-若无法进行可靠年龄确认，则默认采用更严格条款（GPLv3）。
-
-## 4. 合规提醒
-
-- 你不得通过伪造年龄声明绕过本许可证选择。
-- 不同文件如果同时被不同年龄用户读取和分发，分发方应按照本许可证规则执行。
-- 本许可证不影响你所在司法辖区内的额外法律要求。
-
-## 5. 风险与免责声明
-
-本软件按“原样”提供，不提供任何明示或默示担保。
-在任何情况下，作者不对任何直接、间接、偶发、特殊、惩罚性或后果性损失承担责任。
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
